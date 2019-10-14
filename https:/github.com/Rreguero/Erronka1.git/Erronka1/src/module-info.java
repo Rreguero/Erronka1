@@ -1,0 +1,2 @@
+module Erronka1 {
+}
